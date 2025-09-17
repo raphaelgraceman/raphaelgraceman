@@ -16,14 +16,24 @@ My long-term vision is to grow into a senior developer and technology leader, cr
 
 
 
-- 🤔 I’m looking for help with becoming an enterpreneur in the teach industry
+- 🤔 I’m looking for help with becoming an entrepreneur in the teaching industry
 - 💬 Ask me about STEM & Robotics, and API development
-- 📫 How to reach me: Let's connect on linkedIn
+- 📫 How to reach me: Let's connect on LinkedIn
 
-- ⚡ Fun fact: I'm a hard working goal-driven diligent young man, calm and cool at getting things done, but I'm single😂
+- ⚡ Fun fact: I'm a goal-driven and diligent young man who stays calm and focused when getting things done — and yes, I’m single 😂
   
-## Technologies & Tools
-- I'm proficient in: Arduino, Node.js, MySQL, PostgreSQL, MongoDB, TypeScript, C#, Python, Bitly, Scratch, JavaScript, CSS, RESTful APIs, HTML5, Next.js, JSON, Kotlin, Figma, and more.
+## Technologies & Tools  
+
+- I'm proficient in: Arduino, Node.js, MySQL, PostgreSQL, MongoDB, TypeScript, C#, Python, Bitly, Scratch, JavaScript, CSS, RESTful APIs, HTML5, Next.js, JSON, Kotlin, Figma, and more.  
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+</div>
 
 ## Let's Connect!
 [myLinkeIn](https://www.linkedin.com/in/dotseraphael/)  
