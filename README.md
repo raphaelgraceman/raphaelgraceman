@@ -45,4 +45,4 @@ My long-term vision is to grow into a senior developer and technology leader, cr
 </div>
 
 ## Let's Connect!
-[On LinkeIn](https://www.linkedin.com/in/dotseraphael/)  
+[Here on LinkeIn](https://www.linkedin.com/in/dotseraphael/)  
