@@ -6,7 +6,7 @@ I'm a student at Brigham Young University–Idaho, interested in software engine
 
 ## About Me  
 
-I am a young professional with a diverse background spanning sales, logistics, agriculture, and teaching. These experiences have shaped me into a versatile and adaptable individual who thrives in both collaborative and independent environments.  
+I am a young professional with a diverse background spanning sales, agriculture, and teaching. These experiences have shaped me into a versatile and adaptable individual who thrives in both collaborative and independent environments.  
 
 I am deeply passionate about technology and problem-solving. Coding is not just a skill I practice but something I genuinely enjoy. My academic and career aspirations are focused on computer software engineering, with a strong foundation in teacher training and business studies that adds depth to my communication, leadership, and analytical abilities.  
 
