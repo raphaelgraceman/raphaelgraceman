@@ -12,7 +12,7 @@ I am deeply passionate about technology and problem-solving. Coding is not just 
 
 My technical interests include software engineering, full-stack web development, machine learning, and STEM & robotics education. I am committed to continuous learning and staying current with emerging technologies and industry best practices.  
 
-My long-term vision is to grow into a senior developer and technology leader, creating impactful solutions that bridge innovation with real-world needs. I am inspired by professionals like [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic) and motivated to contribute to projects that drive meaningful change.  
+My long-term vision is to grow into a senior developer and technology leader, creating impactful solutions that bridge innovation with real-world needs. I am inspired by Tech professionals like [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic) and motivated to contribute to projects that drive meaningful change by other professionals like Prof. Ralph Van Der Beek and my college instructors.  
 
 
 
