@@ -12,13 +12,13 @@ I am deeply passionate about technology and problem-solving. Coding is not just 
 
 My technical interests include software engineering, full-stack web development, machine learning, and STEM & robotics education. I am committed to continuous learning and staying current with emerging technologies and industry best practices.  
 
-My long-term vision is to grow into a senior developer and technology leader, creating impactful solutions that bridge innovation with real-world needs. I am inspired by Tech professionals like [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic) and motivated to contribute to projects that drive meaningful change by other professionals like Prof. Ralph Van Der Beek and my college instructors.  
+My long-term vision is to grow into a senior developer and technology leader, creating impactful solutions that bridge innovation with real-world needs. I'm inspired and motivated by instructors at BYU-Idaho and Professor Ralph Vanderbeek, who is like a God-figure in my life! Also, I look up to working professionally like [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic) to contribute to projects that drive meaningful change. 
 
 
 
 - 🤔 I’m looking for help with becoming an entrepreneur in the teaching industry
 - 💬 Ask me about STEM & Robotics, and API development
-- 📫 How to reach me: Let's connect on LinkedIn
+- 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/dotseraphael/)  
 
 - ⚡ Fun fact: I'm a goal-driven and diligent young man who stays calm and focused when getting things done — and yes, I’m single 😂
   
@@ -45,4 +45,4 @@ My long-term vision is to grow into a senior developer and technology leader, cr
 </div>
 
 ## Let's Connect!
-[Here on LinkeIn](https://www.linkedin.com/in/dotseraphael/)  
+[Here on LinkedIn](https://www.linkedin.com/in/dotseraphael/)  
